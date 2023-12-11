@@ -1,0 +1,6 @@
+https://psadmin.io/2015/06/09/limit-peoplesoft-vulnerabilities/
+https://community.spiceworks.com/topic/2406013-certificate-authentication-for-ib-web-services
+
+
+TokenChpoken - https://blog.jsmpros.com/2022/11/tokenchpoken.html
+PS-SwitchToken Javascript Mod - https://github.com/coltonfischer/ps-switchtoken/
