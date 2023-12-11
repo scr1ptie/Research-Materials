@@ -4,3 +4,5 @@ https://community.spiceworks.com/topic/2406013-certificate-authentication-for-ib
 
 TokenChpoken - https://blog.jsmpros.com/2022/11/tokenchpoken.html
 PS-SwitchToken Javascript Mod - https://github.com/coltonfischer/ps-switchtoken/
+Check Token ID for SSO - https://psadmin.io/2017/10/25/understanding-the-check-token-id-in-peopletools-8-56/
+Disabling PS_TOKEN with PSEatCookies Filter - https://psadmin.io/2015/11/11/disabling-ps_token-with-pseatcookies-filter/
